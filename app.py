@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 def main():
-    st.title('Excel Data Selector')
+    st.title('AI Narratives')
 
     file_path = 'data_streamlit.xlsx'
     try:
